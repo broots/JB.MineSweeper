@@ -1,0 +1,8 @@
+{
+  "BoardSettingOptions": {
+    "BoardWidth": 5,
+    "BoardHeight": 5,
+    "NumberOfMines": 3,
+    "MaxLives": 3
+  }
+}
